@@ -154,4 +154,4 @@ z
 ![image](https://github.com/user-attachments/assets/455cfa23-e9a1-4f9e-ba3b-6b2c64ab5d79)
 
 # Result
-          <<include your Result here>>
+Hence the data was cleaned , outliers were detected and removed.
