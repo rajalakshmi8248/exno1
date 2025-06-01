@@ -51,7 +51,7 @@ print(df.describe())
 ```
 df.isnull().sum()
 ```
-![image](https://github.com/user-attachments/assets/999079e0-f742-4e49-bea1-dbae9beda6af)4
+![image](https://github.com/user-attachments/assets/999079e0-f742-4e49-bea1-dbae9beda6af)
 
 ```
 df.nunique()
